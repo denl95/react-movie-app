@@ -1,0 +1,9 @@
+export const FETCH_MOVIES = 'FETCH_MOVIES';
+export const ADD_MOVIE = 'ADD_MOVIE';
+export const DELETE_MOVIE = 'DELETE_MOVIE';
+export const SHOW_DETAILS = 'SHOW_DETAILS';
+export const SORT_ASC = 'SORT_ASC';
+export const SORT_DESC = 'SORT_DESC';
+export const FIND_BY_TITLE = 'FIND_BY_TITLE';
+export const FIND_BY_ACTOR = 'FIND_BY_ACTOR';
+export const UPLOAD_FILE = 'UPLOAD_FILE';
